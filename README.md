@@ -21,6 +21,10 @@ Model Integration: The application leverages a pre-trained TensorFlow Keras mode
 
 -TensorFlow
 
+### Project images
+![Main](static/images/img.png)
+![Main](static/images/img_1.png)
+
 Ensure you have Python and pip installed. You can install the required dependencies by running:
 
 ```shell
